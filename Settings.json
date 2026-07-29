@@ -85,7 +85,7 @@
     "Sharpening": 6,
     "Show Clock": 1,
     "Show HP Text": 0,
-    "Show MP Text": 0,
+    "Show MP Text": 1,
     "Skill Ammo Feedback": 1,
     "Subtitles": 1,
     "TTS Speed": 50,
