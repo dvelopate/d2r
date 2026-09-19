@@ -84,8 +84,8 @@
     "Shadow Quality": 3,
     "Sharpening": 6,
     "Show Clock": 1,
-    "Show HP Text": 0,
-    "Show MP Text": 0,
+    "Show HP Text": 1,
+    "Show MP Text": 1,
     "Skill Ammo Feedback": 1,
     "Subtitles": 1,
     "TTS Speed": 50,
@@ -95,7 +95,7 @@
     "Texture Quality": 4,
     "Transparency Quality": 4,
     "Tutorial": 3,
-    "User Last Online": 1789575699996549000,
+    "User Last Online": 1790150316079577200,
     "VSync": 1,
     "Verb Disable": 0,
     "Vfx Lighting Quality": 2,
@@ -103,5 +103,5 @@
     "VoiceLanguage": 0,
     "Wide Item Drop Enabled": 1,
     "Window Mode": 1,
-    "Offline Difficulty Scaling": 1
+    "Offline Difficulty Scaling": 5
 }
